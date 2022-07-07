@@ -1,3 +1,6 @@
 name: KtorIntegration
 main: io.github.rokuosan.ktorintegration.App
 version: ${version}
+author: rokuosan
+api-version: 1.18
+prefix: KI
